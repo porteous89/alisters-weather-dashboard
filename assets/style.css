@@ -1,0 +1,42 @@
+body{
+    height: 100vh;
+    /* background-image: linear-gradient(to bottom right, red, yellow); */
+  }
+
+header {
+
+height: 80px;
+}
+main {
+
+height: 600px;
+display:flex;
+justify-content: space-around;
+}
+
+aside{
+
+width: 30%;
+}
+
+section{
+
+width: 65%
+}
+
+#current-weather-container{
+justify-content: center;
+align-items: center;
+height: 50%;
+}
+
+.future-forecast-container{
+justify-content: center;
+align-items: center;
+height: 50%;
+}
+
+footer{
+
+height: 100px;
+}
