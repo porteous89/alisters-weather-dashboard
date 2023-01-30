@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    /* background-image: linear-gradient(to bottom right, red, yellow); */
+   
   }
 
 header {
@@ -25,14 +25,12 @@ width: 65%
 }
 
 #current-weather-container{
-justify-content: center;
-align-items: center;
+
 height: 50%;
 }
 
 .future-forecast-container{
-justify-content: center;
-align-items: center;
+
 height: 50%;
 }
 
